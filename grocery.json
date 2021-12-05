@@ -1,0 +1,66 @@
+{
+  "storeName": "Farm Boy",
+  "location": "Hazeldean Road",
+  "sections":[
+    {
+      "sectionName": "Produce",
+      "foods": [
+        {
+          "foodName": "Apple",
+          "foodType": "Fruit",
+          "price": 0.67
+        },
+        {
+          "foodName": "Onion",
+          "foodType": "Vegetable",
+          "price": 0.50
+        },
+        {
+          "foodName": "Arugala",
+          "foodType": "Vegetable",
+          "price": 1.50
+        }
+      ]
+    },
+    {
+      "sectionName": "Deli",
+      "foods": [
+        {
+          "foodName": "Mozza Cheese",
+          "foodType": "Dairy",
+          "price": 6.99
+        },
+        {
+          "foodName": "Pepperoni",
+          "foodType": "Meat",
+          "price": 4.50
+        },
+        {
+          "foodName": "Pickles",
+          "foodType": "Vegetable",
+          "price": 3.47
+        }
+      ]
+    },
+    {
+      "sectionName": "Bakery",
+      "foods": [
+        {
+          "foodName": "Croissants",
+          "foodType": "Bread",
+          "price": 4.89
+        },
+        {
+          "foodName": "Pumpkin Pie",
+          "foodType": "Dessert",
+          "price": 6.99
+        },
+        {
+          "foodName": "Baguette",
+          "foodType": "Bread",
+          "price": 3.99
+        }
+      ]
+    }
+  ]
+}
